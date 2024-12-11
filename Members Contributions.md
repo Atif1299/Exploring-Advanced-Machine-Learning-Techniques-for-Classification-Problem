@@ -1,6 +1,4 @@
-#
-**Exploring-Advanced-Machine-Learning-Techniques-for-Classification-Problem**
-# **Team Contributions**
+# Exploring-Advanced-Machine-Learning-Techniques-for-Classification-Problem# **Team Contributions**
 
 ## **Atif Contribution**
 
@@ -49,6 +47,4 @@
 ### Model Evaluation
 - **Evaluate Model and Plot Model Comparison**:  
   - Evaluated model performance using metrics like accuracy, precision, recall, and F1-score.  
-  - Created comparative visualizations to analyze algorithm efficiency.  
-
---
+  - Created comparative visualizations to analyze algorithm efficiency. 

@@ -31,5 +31,5 @@ weather-prediction/
 
 ## Authors
 
-* Atif
-* Waqas
+* Muhammad Atif
+* Waqas Ramzan
